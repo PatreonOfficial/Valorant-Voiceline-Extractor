@@ -1,8 +1,9 @@
-To use, simply create a new folder calles 'src' wich has two folders inside, 'jsons' & 'Media'.
+To use, simply create a new folder calles 'src' wich has two folders inside, 'jsons' & 'Media'.<br>
 Now you should have an folder structure like this:
 
-base
-  Extractor.py
-  > src
-    >Media
-    >jsons 
+
+<h2>baseDir</h2><br>
+╚Extractor.py<br>
+╚src<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚Media<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚jsons 
